@@ -63,7 +63,6 @@ function App() {
     { icon: Code, name: 'JavaScript', level: 60 },
     { icon: Globe, name: 'HTML/CSS', level: 90 },
     { icon: Code, name: 'Git', level: 70 },
-    { icon: Brain, name: 'DSA', level: 50 },
   ];
 
   const projects: Project[] = [
