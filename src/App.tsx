@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import sanjayImg from './assets/sanjay-blazzers-img.jpg';
-import resume from './assets/SANJAY_ATS_RESUME.pdf';
+import resume from './assets/SANJAY - 714022104130 - (Common).pdf';
 
 
 import { 
