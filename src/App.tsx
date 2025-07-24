@@ -57,11 +57,11 @@ function App() {
   const skills = [
     { icon: Coffee, name: 'Java', level: 80 },
     { icon: Database, name: 'MySQL', level: 70 },
-    { icon: Database, name: 'MongoDB', level: 40 },
-    { icon: Globe, name: 'React', level: 40 },
-    { icon: Code, name: 'JavaScript', level: 40 },
+    { icon: Database, name: 'MongoDB', level: 20 },
+    { icon: Globe, name: 'React', level: 50 },
+    { icon: Code, name: 'JavaScript', level: 50 },
     { icon: Globe, name: 'HTML/CSS', level: 90 },
-    { icon: Code, name: 'Git', level: 70 },
+    { icon: Code, name: 'Git', level: 60 },
   ];
 
   const projects: Project[] = [

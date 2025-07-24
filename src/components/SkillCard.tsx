@@ -1,8 +1,9 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { DivideIcon as LucideIcon } from 'lucide-react';
+// import { DivideIcon as LucideIcon } from 'lucide-react';
+import { LucideIcon as LucideIconType } from 'lucide-react';
 
 interface SkillCardProps {
-  icon: LucideIcon;
+  icon: LucideIconType;
   name: string;
   level: number;
   delay?: number;
