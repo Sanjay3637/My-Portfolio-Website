@@ -105,7 +105,7 @@ function App() {
 
   const achievements = [
     'Published research paper "Health Tracker" in IJSREM',
-    'Solved 240+ problems on LeetCode with focus on Java and algorithms',
+    'Solved 250+ problems on LeetCode with focus on Java and algorithms',
     'Event Organizer at college tech fest "KALAM" - managed full event lifecycle',
     'CTRL+C Coordinator - led technical events and mentored junior developers',
     'Proficient in full-stack development with 3+ years of hands-on experience',
